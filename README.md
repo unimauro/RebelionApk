@@ -17,4 +17,3 @@ okok
 <br/><a href="https://www.cardenas.pe/">www.cardenas.pe</a>
 </p>
 
-- 🌱 I’m currently learning all the technology: Quantum Computer, Machine Learning, DevOps, Cloud, Black Hat
